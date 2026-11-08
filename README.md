@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=GrayKazu%20vn&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ESP32-S3%20%E2%80%A2%20Firmware%20%E2%80%A2%20Hardware%20hacks&descSize=18&descAlignY=60" width="100%" alt="header"/>
 
 <a href="https://github.com/tkhoi0821-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=%F0%9F%9A%A2+T%C3%A0u+b%E1%BB%8F+hoang+%C4%91%C3%A8n+n%E1%BB%95+s%C3%A1ng+s%C3%A1ng;%F0%9F%92%A1+RGB+ESP32S3+ch%E1%BA%A1m+l%C3%A0+%C4%91%E1%BB%95i+m%C3%A0u;%F0%9F%92%9C+GKcode+4.4+%E2%80%94+F5+ch%E1%BA%A1y+lu%C3%B4n;%E2%9A%A1+KazuOS+1.4.1+cho+ESP" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=%F0%9F%92%9C+GKcode+4.4+%E2%80%94+F5+ch%E1%BA%A1y+lu%C3%B4n;%E2%9A%A1+KazuOS+1.4.1+cho+ESP" alt="typing"/>
 </a>
 
 <br/>
@@ -24,19 +24,9 @@
 
 ## 👋 Xin chào, tui là **GrayKazu**
 
-Tui hay mày mò **phần cứng + firmware**: nhét LED RGB vào tàu bỏ hoang, bắt màn hình Casio "fake" lên hình, viết cả IDE tiếng Việt cho vui 😎
+Tui hay mày mò **phần cứng + firmware**: bắt màn hình Casio "fake" lên hình, viết cả IDE tiếng Việt cho vui 😎
 
 > *"Trên Fedora thì chỉ có GKcode là gần gũi người dùng nhất"*
-
----
-
-## 🔥 Đang cháy
-
-| | Dự án | Chi tiết |
-|---|---|---|
-| 🚢 | **GK Video Engine** | ULTRA PX 1 (RGB) · 100 keyframe · 2.3s @ 30Hz |
-| 💡 | **Tàu bỏ hoang đèn nổ sáng sáng** | ESP32-S3 + LED RGB |
-| 🌈 | **RGB chạm là đổi màu** | Code bằng GKcode |
 
 ---
 
