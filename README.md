@@ -14,20 +14,25 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 
-![Views](https://komarev.com/ghpvc/?username=tkhoi0821-svg&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/tkhoi0821-svg?style=flat-square&color=8B5CF6)
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 👋 Xin chào, tui là **GrayKazu**
 
 Tui hay mày mò **phần cứng + firmware**: bắt màn hình Casio "fake" lên hình, viết cả IDE tiếng Việt cho vui 😎
 
-> *"Trên Fedora thì chỉ có GKcode là gần gũi người dùng nhất"*
+<img src="assets/divider.svg" width="100%" alt="">
 
----
+## 🧠 Mạng nơ-ron AI
+
+<div align="center">
+<img src="assets/neuron.svg" width="90%" alt="Neural network animation"/>
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🚀 Dự án
 
@@ -72,22 +77,15 @@ Thư viện chứa **vô vàn icon đẹp mắt** cho các dự án Arduino củ
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🧰 Tech stack
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,ts,go,rust,kotlin,swift,php,ruby,dart,lua,r,perl,haskell,scala,elixir,clojure,julia,matlab,bash,powershell,html,css,arduino,raspberrypi,linux,fedora,ubuntu,git,github,vscode,docker,nodejs,react,flask,django,tensorflow,pytorch,opencv,sqlite,mysql,postgres,mongodb&perline=12" alt="skills"/>
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 📊 Stats
 
@@ -102,7 +100,21 @@ Thư viện chứa **vô vàn icon đẹp mắt** cho các dự án Arduino củ
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 📬 Liên hệ
+
+<div align="center">
+
+<a href="https://github.com/tkhoi0821-svg"><img src="https://img.shields.io/badge/GitHub-tkhoi0821--svg-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<a href="mailto:EMAIL_CUA_ONG@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="https://facebook.com/LINK_FB_CUA_ONG"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
+<a href="https://youtube.com/@KENH_CUA_ONG"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>
+<a href="https://discord.com/users/ID_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="">
 
 <div align="center">
 
