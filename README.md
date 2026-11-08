@@ -13,7 +13,6 @@
 ![ESP32-S3](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ![Views](https://komarev.com/ghpvc/?username=tkhoi0821-svg&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/tkhoi0821-svg?style=flat-square&color=8B5CF6)
@@ -71,22 +70,6 @@ Thư viện chứa **vô vàn icon đẹp mắt** cho các dự án Arduino củ
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚗 BMW M Coca Can 1:60
-Mô hình xe độc lạ làm từ lon Coca.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏙️ Phố thập niên ACNG
-Dựng cảnh phố bằng **Blender**.
-
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-
-</td>
-</tr>
 </table>
 
 ---
@@ -100,7 +83,6 @@ Dựng cảnh phố bằng **Blender**.
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
@@ -130,4 +112,3 @@ Dựng cảnh phố bằng **Blender**.
 
 </div>
 
-</div>
